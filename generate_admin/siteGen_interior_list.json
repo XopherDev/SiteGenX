@@ -1,0 +1,36 @@
+{
+    "about.html": {
+      "title": "Page Title Goes Here",
+      "banner_name": "Banner Title Goes Here",
+      "content": "<h1>Page Header Goes Here</h1>
+      Page Text Goes Here"
+      },
+
+    "portfolio.html": {
+      "title": "Page Title Goes Here",
+      "banner_name": "Banner Title Goes Here",
+      "content": "<h1>Page Header Goes Here</h1>
+      Page Text Goes Here"
+      },
+
+    "pricing.html": {
+      "title": "Page Title Goes Here",
+      "banner_name": "Banner Title Goes Here",
+      "content": "<h1>Page Header Goes Here</h1>
+      Page Text Goes Here"
+      },
+
+    "contact.html": {
+      "title": "Page Title Goes Here",
+      "banner_name": "Banner Title Goes Here",
+      "content": "<h1>Page Header Goes Here</h1>
+      Page Text Goes Here"
+      },
+
+      "sitemap.html": {
+        "title": "Page Title Goes Here",
+        "banner_name": "Banner Title Goes Here",
+        "content": "<h1>Page Header Goes Here</h1>
+        Page Text Goes Here"
+        }
+}

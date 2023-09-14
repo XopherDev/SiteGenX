@@ -1,0 +1,17 @@
+{
+    "name":"SiteGenX",
+    "web":{
+        "rules":[
+            "path-suffix-nocase(/box.json) -> set-error(404)",
+            "path-suffix-nocase(hidden.js) -> set-error(404)",
+            "path(/sitemap.xml) -> rewrite(/sitemap.cfm)",
+            "path(/about) -> rewrite(/about.html)",
+            "path(/pricing) -> rewrite(/pricing.html)",
+            "path(/portfolio) -> rewrite(/portfolio.html)",
+            "path(/contact) -> rewrite(/contact.html)",
+            "path(/sitemap) -> rewrite(/sitemap.html)",
+            "disallowed-methods(trace)"
+        ],
+        "rulesFile":"../secure-rules.json"
+    }
+}
